@@ -4,7 +4,7 @@ A full-stack MERN website for movie theaters that allows users to browse for fil
 <img width="1438" alt="ss" src="https://user-images.githubusercontent.com/25881325/67157291-7e05dc00-f32a-11e9-8d0e-00e6ecda5b7d.png">
 
 <h2>Installation</h2>
-Use the package manager [npm](https://www.npmjs.com/) to install iCinema.
+
 
 Fork the Project by using:
 
